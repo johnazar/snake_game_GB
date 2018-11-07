@@ -5,6 +5,7 @@ import java.awt.event.*;
 /**
  * Java. Classic Game Snake
  *
+ *
  * @author Sergey Iryupin
  * @version 0.7.2 dated Sep 15, 2018
  */
